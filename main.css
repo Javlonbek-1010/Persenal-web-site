@@ -1,0 +1,58 @@
+
+.collapse{
+    display: flex;
+    justify-content: end;
+    margin-right: 12rem;
+   margin-top: 1rem;
+    
+}
+.nav{
+    margin-left:12rem ;
+    color: aquamarine;
+    font-size: 30px;
+    margin-top: 1rem;
+    
+    
+}
+.link{
+    border: 1px aquamarine solid;
+    margin-left:2rem ;
+    border-radius: 30px;
+    color: aquamarine;
+    text-decoration: none;
+    padding: 3px 10px;
+    font-size: 19px;
+    align-items: center;
+    align-items: center;
+    
+}
+.link:hover{
+    color: white;
+    background-color: aquamarine;
+}
+.box{
+    background-image: url(img/photo-1544006659-f0b21884ce1d.jpg);
+    height: 60rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container-fluid{
+    margin-bottom: 1rem;
+    align-items: center;
+}
+.name{
+    color: aquamarine;
+     display: flex;
+    justify-content: space-around;
+}
+.txt{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.a{
+    color: white;
+    text-align: center;
+}
