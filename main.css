@@ -88,6 +88,7 @@
     align-items: center;
     padding: 8rem;
     padding-left: 6rem;
+    
 
 
 }
@@ -133,5 +134,39 @@
     padding: 5rem;
 
 }
+.but{
+    align-items: center;
+    text-align: center;
+    color: white;
+   
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+    padding: 10px 20px;
+}
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+    .c{
+      
+    }
+}
