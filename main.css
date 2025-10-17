@@ -159,7 +159,7 @@
 .box3{
     background-color:aquamarine ;
     display: flex;
-    height: ;
+    height: 60rem;
 
 }
 .box4{
@@ -168,12 +168,16 @@
     border: none;
     display: flex;
     border: 1px solid black;
+    height: 30rem;
+    width:25rem ;
 }
 .box5{
      padding: 50px 60px ;
     background-color: white;
     border: 1px solid black;
     display: flex;
+     height: 30rem;
+    width:25rem ;
 }
 
 
