@@ -160,6 +160,7 @@
     background-color:aquamarine ;
     display: flex;
     height: 65rem;
+    margin-top: 8rem;
     
     
 
@@ -174,7 +175,7 @@
     width:25rem ;
     font-size: 22px;
     border-radius: 20px;
-      translate: 100px 100px;
+      translate: 0px 100px;
 }
 .box5{
      padding: 50px 60px ;
@@ -185,7 +186,7 @@
     width:25rem ;
     font-size: 22px;
     border-radius: 20px;
-    translate: 800px 300px;
+    translate: 600px 300px;
 }
 .box6{
     padding: 50px 60px ;
@@ -196,14 +197,29 @@
     width:25rem ;
     font-size: 22px;
     border-radius: 20px;
-    translate: -500px 700px;
+    translate: -500px 750px;
 }
 
 .msg{
-    text-align: center;
-    align-items: center;
+
+   padding: 12px 30px;
+    background-color: rgb(31, 121, 51);
+     border-radius: 10px;
+     color: white;
+     align-items: center;
+     border: none;
 }
-.
+.box7{
+   
+   
+    border: none;
+    display: flex;
+    width: 15rem;
+    height: 3rem;
+    font-size: 22px;
+    align-items: center;
+    translate: 800px 400px;
+}
 
 
 
