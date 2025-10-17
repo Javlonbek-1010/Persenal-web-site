@@ -134,14 +134,30 @@
     padding: 5rem;
 
 }
-.but{
+.button{
     align-items: center;
     text-align: center;
     color: white;
-   
+    /* translate: 800px 20px; */
     background-color: aquamarine;
     border: 1px solid aquamarine;
-    padding: 10px 20px;
+    padding: 15px 50px;
+    font-size: 25px;
+    border-radius: 15px 0;
+    transition: 0.3s;
+}
+.but{
+    align-items: center;
+    text-align: center;
+    margin-top: 7rem;
+  
+}
+.button:hover{
+    background-color: rgba(62, 206, 158, 0.925);
+   
+}
+.box3{
+    background-color: ;
 }
 
 
