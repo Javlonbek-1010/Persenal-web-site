@@ -158,32 +158,42 @@
 }
 .box3{
     background-color:aquamarine ;
+    display: flex;
+    height: ;
 
 }
-.box
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media screen and (min-width: 480px) and (max-width: 768px) {
-    .c{
-      
-    }
+.box4{
+    padding: 50px 60px ;
+    background-color: white;
+    border: none;
+    display: flex;
+    border: 1px solid black;
 }
+.box5{
+     padding: 50px 60px ;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
