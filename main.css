@@ -159,7 +159,7 @@
 .box3{
     background-color:aquamarine ;
     display: flex;
-    height: 65rem;
+    height: 68rem;
     margin-top: 8rem;
     
     
@@ -255,16 +255,26 @@
     border: none;
     border-radius: 50%;
     background-image: linear-gradient( 120deg ,rgba(30, 90, 202, 0) , rgba(15, 172, 120, 0.774),rgba(79, 211, 112, 0.986)  );
-   translate: 100px -200px;
+   translate: -1500px 0px;
     text-align: center;
-    font-size: 100PX;
+    font-size: 70PX;
     color: white;
     align-items: center;
     padding: 8rem;
 }
 
 .v{
-
+     width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 50%;
+    background-image: linear-gradient( 120deg ,rgba(30, 90, 202, 0) , rgba(15, 172, 120, 0.774),rgba(79, 211, 112, 0.986)  );
+   translate: -1200px -200px;
+    text-align: center;
+    font-size: 70PX;
+    color: white;
+    align-items: center;
+    padding: 7rem;
 }
 
 
